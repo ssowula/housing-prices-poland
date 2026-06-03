@@ -1,5 +1,7 @@
 # 🏡 Analiza i modelowanie cen mieszkań w Polsce
 
+👉 **[ZOBACZ PEŁNY RAPORT (HTML)](https://ssowula.github.io/housing-prices-poland/)** 👈
+
 📊 **Projekt analityczny w języku R**, mający na celu zbadanie wpływu wskaźników makroekonomicznych i demograficznych na ceny transakcyjne mieszkań (PLN/m²) w polskich powiatach oraz zbudowanie skutecznego modelu predykcyjnego.
 
 ---
